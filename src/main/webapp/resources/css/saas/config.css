@@ -1,0 +1,271 @@
+.layout-container {
+	background-color: #F0F3F5;
+}
+
+.designForm-content {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 30px;
+}
+
+.designForm-side {
+	display: flex;
+}
+
+.contentForm-side {
+	width: 100%;
+}
+
+.input-group {
+	margin-bottom: 25px;
+}
+
+.input-group-label {
+	width: 15vw;
+}
+
+.designForm-labels {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+	margin-right: 20px;
+}
+
+.designForm-inputs {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+.formSelectItem {
+	padding: 5px 15px;
+	width: 200px;
+	border-radius: 30px;
+	border: 1px solid #cfd8dc;
+}
+
+.contentForm-inputs {
+	display: flex;
+	gap: 50px;
+}
+
+.designForm-radios {
+	display: flex;
+	gap: 50px;
+}
+
+.designForm-radios div {
+	display: flex;
+	align-items: flex-end;
+	gap: 15px;
+	margin-top: 10px;
+}
+
+.formItem {
+	width: 25vw;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #A8B5A2;
+}
+
+.input-img {
+	border: none;
+	height: unset;
+	border-radius: 0px;
+	padding: 0 7px;
+}
+
+#amapForm label {
+	width: 210px;
+}
+
+#amapForm input {
+	width: 400px;
+}
+
+.configForm-submit {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 40px 0 10px 0;
+}
+
+.configDesignForm-submit {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 30px 0;
+}
+
+input[type="color"] {
+	width: 35px;
+	height: 35px;
+	border: 1px solid #888;
+	cursor: pointer;
+	padding: 0;
+	margin-bottom: 10px;
+}
+
+input[type="color"]::-webkit-color-swatch-wrapper {
+	padding: 0;
+	width: 100%;
+	height: 100%;
+}
+
+input[type="color"]::-webkit-color-swatch {
+	border: none; /* Supprime la bordure interne sur Chrome */
+	padding: 0;
+}
+
+input[type="color"]::-moz-color-swatch {
+	border: none; /* Supprime la bordure interne sur Firefox */
+}
+
+input[type="color"] {
+	-webkit-appearance: none; /* Enlève l'apparence par défaut de Chrome */
+}
+
+input[type="color"]:focus {
+	outline: none;
+	box-shadow: 0 0 5px #888;
+}
+
+.btn-profile {
+	padding-top: 12px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.btn-profile a:hover {
+	color: black;
+}
+
+/********************* Profile ************************/
+.modal-title {
+	margin-top: 0;
+}
+
+.modal {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+	width: 50%;
+	height: 100%;
+	padding: 20px 40px;
+	margin: auto;
+	background-color: #fff;
+	border-radius: 10px;
+	overflow-y: auto;
+}
+
+/*********************** Thèmes *********************/
+.design-theme {
+	display: flex;
+	gap: 5%;
+}
+
+.design-theme p {
+	margin-bottom: 0;
+}
+
+.themes-container {
+	display: flex;
+	gap: 20px;
+}
+
+.theme-card {
+	cursor: pointer;
+	text-align: center;
+	width: 120px;
+	padding: 10px;
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	transition: transform 0.2s, box-shadow 0.2s;
+	background-color: #ffffff;
+}
+
+.theme-card p {
+	margin-bottom: 5px;
+}
+
+.theme-card:hover {
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.theme-preview {
+	position: relative;
+	width: 100%;
+	height: 80px;
+	margin-bottom: 10px;
+	border-radius: 4px;
+	overflow: hidden;
+	display: flex;
+}
+
+.triangle {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+/* ------------------------ Format tablette ---------------------------*/
+@media screen and (max-width: 992px) {
+	.designForm-content {
+		display: block;
+	}
+	.formItem {
+		width: 35vw;
+	}
+	.side2 {
+		margin-top: 30px;
+		margin-bottom: 50px;
+	}
+	#presentationText {
+		width: 70vw;
+	}
+}
+
+/* ------------------------ Format mobile ---------------------------*/
+@media screen and (max-width: 768px) {
+	.design-theme {
+		display: block;
+	}
+	.theme-card {
+		width: 95px;
+		margin-top: 20px;
+	}
+	.theme-preview {
+		height: 65px;
+	}
+	.formItem {
+		width: 40vw;
+	}
+	.formSelectItem {
+		width: 150px;
+	}
+	.designForm-radios {
+		gap: 20px;
+	}
+	.side2 {
+		margin-bottom: 30px;
+	}
+	.contentForm-content {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+	.contentForm-side {
+		width: 100%;
+	}
+	.input-group {
+		width: 100%;
+	}
+	.input-group label, .input-group input, .input-group textarea {
+		width: 100%;
+	}
+	#presentationText {
+		width: 100%;
+	}
+	#amapForm input {
+	width: 100%;
+	}
+}

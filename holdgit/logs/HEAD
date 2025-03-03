@@ -1,0 +1,216 @@
+0000000000000000000000000000000000000000 bf3c7f2aadf0e3fa9502d3312ab0dab310b38531 QuentC13 <quentin83640@orange.fr> 1734427333 +0100	commit (initial): first commit
+bf3c7f2aadf0e3fa9502d3312ab0dab310b38531 190a0319125aa8cf1ebe4e5d82812cc762739c63 QuentC13 <quentin83640@orange.fr> 1734427556 +0100	commit: Create .gitignore
+190a0319125aa8cf1ebe4e5d82812cc762739c63 a9b2395e5cdae5e174ee9a2dc439b63464294f10 QuentC13 <quentin83640@orange.fr> 1734427894 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward
+a9b2395e5cdae5e174ee9a2dc439b63464294f10 2b598bbb135b8d228d0f81b53b4380da6c425c72 QuentC13 <quentin83640@orange.fr> 1734429694 +0100	commit: SaaspeutenVrai
+2b598bbb135b8d228d0f81b53b4380da6c425c72 757eb82186974fc43fbec829eba280febdec20dc QuentC13 <quentin83640@orange.fr> 1734429998 +0100	pull --ff --recurse-submodules --progress origin: Fast-forward
+757eb82186974fc43fbec829eba280febdec20dc e69bc6612550b9bd4c1e97d072c42042f74e3016 QuentC13 <quentin83640@orange.fr> 1734430156 +0100	commit: Update .gitignore
+e69bc6612550b9bd4c1e97d072c42042f74e3016 e69bc6612550b9bd4c1e97d072c42042f74e3016 QuentC13 <quentin83640@orange.fr> 1734432293 +0100	checkout: moving from main to qc_branchtest
+e69bc6612550b9bd4c1e97d072c42042f74e3016 e69bc6612550b9bd4c1e97d072c42042f74e3016 QuentC13 <quentin83640@orange.fr> 1734452459 +0100	checkout: moving from qc_branchtest to main
+e69bc6612550b9bd4c1e97d072c42042f74e3016 e832c5060082da9a38f4721f21be7b4ffd621236 QuentC13 <quentin83640@orange.fr> 1734452634 +0100	pull: Fast-forward
+e832c5060082da9a38f4721f21be7b4ffd621236 c15536276b8f1db8a4391b7014878bc912107c76 QuentC13 <quentin83640@orange.fr> 1734452647 +0100	checkout: moving from main to DJ_UserSaas
+c15536276b8f1db8a4391b7014878bc912107c76 aad4c4cf281e2f7f3dc73d001d3c2a95a9cbb2c4 QuentC13 <quentin83640@orange.fr> 1734516547 +0100	commit: SaasUser update
+aad4c4cf281e2f7f3dc73d001d3c2a95a9cbb2c4 e832c5060082da9a38f4721f21be7b4ffd621236 QuentC13 <quentin83640@orange.fr> 1734516571 +0100	checkout: moving from DJ_UserSaas to main
+e832c5060082da9a38f4721f21be7b4ffd621236 d2b2890c1dde421d0d390991ceb8c388a61f85b2 QuentC13 <quentin83640@orange.fr> 1734516583 +0100	pull: Fast-forward
+d2b2890c1dde421d0d390991ceb8c388a61f85b2 aad4c4cf281e2f7f3dc73d001d3c2a95a9cbb2c4 QuentC13 <quentin83640@orange.fr> 1734516605 +0100	checkout: moving from main to DJ_UserSaas
+aad4c4cf281e2f7f3dc73d001d3c2a95a9cbb2c4 1769c27e90228aa08483345cf211b4a3c95765e7 QuentC13 <quentin83640@orange.fr> 1734516750 +0100	commit (merge): conflict resolved
+1769c27e90228aa08483345cf211b4a3c95765e7 53faff982b583f8dbfe013e1b5e7a487aae06f0f QuentC13 <quentin83640@orange.fr> 1734523847 +0100	commit: SaasUser with subscribe form
+53faff982b583f8dbfe013e1b5e7a487aae06f0f d2b2890c1dde421d0d390991ceb8c388a61f85b2 QuentC13 <quentin83640@orange.fr> 1734523881 +0100	checkout: moving from DJ_UserSaas to main
+d2b2890c1dde421d0d390991ceb8c388a61f85b2 53faff982b583f8dbfe013e1b5e7a487aae06f0f QuentC13 <quentin83640@orange.fr> 1734524869 +0100	checkout: moving from main to DJ_UserSaas
+53faff982b583f8dbfe013e1b5e7a487aae06f0f 01a405e1c6b946ab06a374e43b42292a017c653a QuentC13 <quentin83640@orange.fr> 1734525881 +0100	commit: Upload Subcribe Form with conflict bootstrap resolved
+01a405e1c6b946ab06a374e43b42292a017c653a d2b2890c1dde421d0d390991ceb8c388a61f85b2 QuentC13 <quentin83640@orange.fr> 1734525901 +0100	checkout: moving from DJ_UserSaas to main
+d2b2890c1dde421d0d390991ceb8c388a61f85b2 01a405e1c6b946ab06a374e43b42292a017c653a QuentC13 <quentin83640@orange.fr> 1734525920 +0100	checkout: moving from main to DJ_UserSaas
+01a405e1c6b946ab06a374e43b42292a017c653a d2b2890c1dde421d0d390991ceb8c388a61f85b2 QuentC13 <quentin83640@orange.fr> 1734529038 +0100	checkout: moving from DJ_UserSaas to main
+d2b2890c1dde421d0d390991ceb8c388a61f85b2 01a405e1c6b946ab06a374e43b42292a017c653a QuentC13 <quentin83640@orange.fr> 1734529062 +0100	merge DJ_UserSaas: Fast-forward
+01a405e1c6b946ab06a374e43b42292a017c653a 01a405e1c6b946ab06a374e43b42292a017c653a QuentC13 <quentin83640@orange.fr> 1734533281 +0100	checkout: moving from main to qc_packages
+01a405e1c6b946ab06a374e43b42292a017c653a 558676ffbd9882fc87c5a3df24ff2bb843f47da3 QuentC13 <quentin83640@orange.fr> 1734599253 +0100	commit: Create class subs, function and enum Substatus... WIP
+558676ffbd9882fc87c5a3df24ff2bb843f47da3 01a405e1c6b946ab06a374e43b42292a017c653a QuentC13 <quentin83640@orange.fr> 1734599303 +0100	checkout: moving from qc_packages to main
+01a405e1c6b946ab06a374e43b42292a017c653a f29f8ac350f9610cc8373926c1e8e61ffa30b83b QuentC13 <quentin83640@orange.fr> 1734599320 +0100	pull: Fast-forward
+f29f8ac350f9610cc8373926c1e8e61ffa30b83b 558676ffbd9882fc87c5a3df24ff2bb843f47da3 QuentC13 <quentin83640@orange.fr> 1734599342 +0100	checkout: moving from main to qc_packages
+558676ffbd9882fc87c5a3df24ff2bb843f47da3 dc442d0317742478645781a596d88303fe2f8f16 QuentC13 <quentin83640@orange.fr> 1734599346 +0100	merge main: Merge made by the 'ort' strategy.
+dc442d0317742478645781a596d88303fe2f8f16 9e2555b17bdc35d5010af540cb7d1062d1bc4134 QuentC13 <quentin83640@orange.fr> 1734606493 +0100	pull: Fast-forward
+9e2555b17bdc35d5010af540cb7d1062d1bc4134 cc442d23b34668978e49a3b9d76999ed8048e6ce QuentC13 <quentin83640@orange.fr> 1734623930 +0100	commit: Create ManytoMany functionSub, Many to One SaasUserSub and backend signup form updated
+cc442d23b34668978e49a3b9d76999ed8048e6ce f29f8ac350f9610cc8373926c1e8e61ffa30b83b QuentC13 <quentin83640@orange.fr> 1734623955 +0100	checkout: moving from qc_packages to main
+f29f8ac350f9610cc8373926c1e8e61ffa30b83b 8c0da252630c66c65de4bf6192343bd573d91a7c QuentC13 <quentin83640@orange.fr> 1734623963 +0100	pull: Fast-forward
+8c0da252630c66c65de4bf6192343bd573d91a7c cc442d23b34668978e49a3b9d76999ed8048e6ce QuentC13 <quentin83640@orange.fr> 1734623994 +0100	checkout: moving from main to qc_packages
+cc442d23b34668978e49a3b9d76999ed8048e6ce 0795d6155510886fb46ae15135d20b4a14241738 QuentC13 <quentin83640@orange.fr> 1734624278 +0100	commit (merge): Merge branch 'main' into qc_packages
+0795d6155510886fb46ae15135d20b4a14241738 2f9f5acedec65c441ef533036eb02658cd75f556 QuentC13 <quentin83640@orange.fr> 1734626116 +0100	commit: upload formSub Es
+2f9f5acedec65c441ef533036eb02658cd75f556 9527301ecaf76f314d8bf2c25e01ce9807818b6c QuentC13 <quentin83640@orange.fr> 1734686359 +0100	pull: Fast-forward
+9527301ecaf76f314d8bf2c25e01ce9807818b6c 8c0da252630c66c65de4bf6192343bd573d91a7c QuentC13 <quentin83640@orange.fr> 1734686584 +0100	checkout: moving from qc_packages to main
+8c0da252630c66c65de4bf6192343bd573d91a7c 9527301ecaf76f314d8bf2c25e01ce9807818b6c QuentC13 <quentin83640@orange.fr> 1734686601 +0100	merge qc_packages: Fast-forward
+9527301ecaf76f314d8bf2c25e01ce9807818b6c aab539dec615524ffb7b7402b779a72a157e5550 QuentC13 <quentin83640@orange.fr> 1734687299 +0100	pull: Fast-forward
+aab539dec615524ffb7b7402b779a72a157e5550 aab539dec615524ffb7b7402b779a72a157e5550 QuentC13 <quentin83640@orange.fr> 1734688668 +0100	checkout: moving from main to DJ_Payment
+aab539dec615524ffb7b7402b779a72a157e5550 5e56cca6bdd2bef0fba6750f45f1141cb27459bc QuentC13 <quentin83640@orange.fr> 1734691530 +0100	commit: create relation OnteOne with AMAP/SaasUser
+5e56cca6bdd2bef0fba6750f45f1141cb27459bc 5e56cca6bdd2bef0fba6750f45f1141cb27459bc QuentC13 <quentin83640@orange.fr> 1734700493 +0100	reset: moving to HEAD
+5e56cca6bdd2bef0fba6750f45f1141cb27459bc b565d98593e0aa93467715f0032c5ba02f423510 QuentC13 <quentin83640@orange.fr> 1734700791 +0100	pull: Fast-forward
+b565d98593e0aa93467715f0032c5ba02f423510 985a6618afc7c517b21f0a373aef9bd42f0dccd1 QuentC13 <quentin83640@orange.fr> 1734708825 +0100	commit: Upload payment WIP
+985a6618afc7c517b21f0a373aef9bd42f0dccd1 aab539dec615524ffb7b7402b779a72a157e5550 QuentC13 <quentin83640@orange.fr> 1734708844 +0100	checkout: moving from DJ_Payment to main
+aab539dec615524ffb7b7402b779a72a157e5550 86e5390f8bdc56cd7ff4179749a5b1b53f139948 QuentC13 <quentin83640@orange.fr> 1734708853 +0100	pull: Fast-forward
+86e5390f8bdc56cd7ff4179749a5b1b53f139948 985a6618afc7c517b21f0a373aef9bd42f0dccd1 QuentC13 <quentin83640@orange.fr> 1734708866 +0100	checkout: moving from main to DJ_Payment
+985a6618afc7c517b21f0a373aef9bd42f0dccd1 fb82ffae2bce93b9323b271a0a43b9d3baa52b25 QuentC13 <quentin83640@orange.fr> 1734709073 +0100	commit (merge): Merge branch 'main' into DJ_Payment
+fb82ffae2bce93b9323b271a0a43b9d3baa52b25 f872bf7e3ccc01df8663d6ee0ca1c69c3eb2449d QuentC13 <quentin83640@orange.fr> 1734800276 +0100	commit: Update payment subcriptions with front WIP
+f872bf7e3ccc01df8663d6ee0ca1c69c3eb2449d 86e5390f8bdc56cd7ff4179749a5b1b53f139948 QuentC13 <quentin83640@orange.fr> 1734800319 +0100	checkout: moving from DJ_Payment to main
+86e5390f8bdc56cd7ff4179749a5b1b53f139948 f872bf7e3ccc01df8663d6ee0ca1c69c3eb2449d QuentC13 <quentin83640@orange.fr> 1734800379 +0100	checkout: moving from main to DJ_Payment
+f872bf7e3ccc01df8663d6ee0ca1c69c3eb2449d 8089622381611d61075fa0e1312687cc0407d7a5 QuentC13 <quentin83640@orange.fr> 1734806716 +0100	commit: BackEnd SUbscription complete, need more Front for Payment form, waiting connexion systeme
+8089622381611d61075fa0e1312687cc0407d7a5 86e5390f8bdc56cd7ff4179749a5b1b53f139948 QuentC13 <quentin83640@orange.fr> 1734806727 +0100	checkout: moving from DJ_Payment to main
+86e5390f8bdc56cd7ff4179749a5b1b53f139948 8089622381611d61075fa0e1312687cc0407d7a5 QuentC13 <quentin83640@orange.fr> 1734806744 +0100	merge DJ_Payment: Fast-forward
+8089622381611d61075fa0e1312687cc0407d7a5 92a0696ea9c983a059120b2d04b8d6f2bc67d999 QuentC13 <quentin83640@orange.fr> 1735219722 +0100	pull: Fast-forward
+92a0696ea9c983a059120b2d04b8d6f2bc67d999 eaac50075aab1b7485789be0e36bfbb05906b9e8 QuentC13 <quentin83640@orange.fr> 1735219969 +0100	checkout: moving from main to Login
+eaac50075aab1b7485789be0e36bfbb05906b9e8 92a0696ea9c983a059120b2d04b8d6f2bc67d999 QuentC13 <quentin83640@orange.fr> 1735750261 +0100	checkout: moving from Login to main
+92a0696ea9c983a059120b2d04b8d6f2bc67d999 50714d5e004d2eb8a53bb5cea635b7ed98f917fc QuentC13 <quentin83640@orange.fr> 1735750276 +0100	pull: Fast-forward
+50714d5e004d2eb8a53bb5cea635b7ed98f917fc 44bab2c56adb040c9b135c4eecc5ac0a4a362efa QuentC13 <quentin83640@orange.fr> 1735903446 +0100	pull: Fast-forward
+44bab2c56adb040c9b135c4eecc5ac0a4a362efa 9a2e54045fc1969f47574c3e3cb927b3a830925d QuentC13 <quentin83640@orange.fr> 1735916288 +0100	pull: Fast-forward
+9a2e54045fc1969f47574c3e3cb927b3a830925d 9a2e54045fc1969f47574c3e3cb927b3a830925d QuentC13 <quentin83640@orange.fr> 1735916407 +0100	checkout: moving from main to qc_downloadLogo
+9a2e54045fc1969f47574c3e3cb927b3a830925d 9a2e54045fc1969f47574c3e3cb927b3a830925d QuentC13 <quentin83640@orange.fr> 1735921241 +0100	checkout: moving from qc_downloadLogo to main
+9a2e54045fc1969f47574c3e3cb927b3a830925d d3b88878ca7409db8355ca7c1af956857f4b87e9 QuentC13 <quentin83640@orange.fr> 1735921252 +0100	pull: Fast-forward
+d3b88878ca7409db8355ca7c1af956857f4b87e9 12c34cfe9e2a5fc2f7a51f8d6971313c8f492ca0 QuentC13 <quentin83640@orange.fr> 1735938222 +0100	pull: Fast-forward
+12c34cfe9e2a5fc2f7a51f8d6971313c8f492ca0 9a2e54045fc1969f47574c3e3cb927b3a830925d QuentC13 <quentin83640@orange.fr> 1735977615 +0100	checkout: moving from main to qc_downloadLogo
+9a2e54045fc1969f47574c3e3cb927b3a830925d 12c34cfe9e2a5fc2f7a51f8d6971313c8f492ca0 QuentC13 <quentin83640@orange.fr> 1735977624 +0100	merge main: Fast-forward
+12c34cfe9e2a5fc2f7a51f8d6971313c8f492ca0 a89932bdaac0777151f13c0edd09e0fc4f9a125f QuentC13 <quentin83640@orange.fr> 1735983885 +0100	commit: Upload Logo Amap in Config and sswhow logo in amap space
+a89932bdaac0777151f13c0edd09e0fc4f9a125f 12c34cfe9e2a5fc2f7a51f8d6971313c8f492ca0 QuentC13 <quentin83640@orange.fr> 1735983902 +0100	checkout: moving from qc_downloadLogo to main
+12c34cfe9e2a5fc2f7a51f8d6971313c8f492ca0 a89932bdaac0777151f13c0edd09e0fc4f9a125f QuentC13 <quentin83640@orange.fr> 1735983915 +0100	checkout: moving from main to qc_downloadLogo
+a89932bdaac0777151f13c0edd09e0fc4f9a125f 12c34cfe9e2a5fc2f7a51f8d6971313c8f492ca0 QuentC13 <quentin83640@orange.fr> 1735983930 +0100	checkout: moving from qc_downloadLogo to main
+12c34cfe9e2a5fc2f7a51f8d6971313c8f492ca0 a89932bdaac0777151f13c0edd09e0fc4f9a125f QuentC13 <quentin83640@orange.fr> 1735983944 +0100	merge qc_downloadLogo: Fast-forward
+a89932bdaac0777151f13c0edd09e0fc4f9a125f a89932bdaac0777151f13c0edd09e0fc4f9a125f QuentC13 <quentin83640@orange.fr> 1735984062 +0100	checkout: moving from main to qc_textconfigAmap
+a89932bdaac0777151f13c0edd09e0fc4f9a125f 967eb523e037456a5af3f27367ac441124c3536f QuentC13 <quentin83640@orange.fr> 1735989806 +0100	commit: convert presentation's text String/Clob and show text in amap Space
+967eb523e037456a5af3f27367ac441124c3536f a89932bdaac0777151f13c0edd09e0fc4f9a125f QuentC13 <quentin83640@orange.fr> 1735989816 +0100	checkout: moving from qc_textconfigAmap to main
+a89932bdaac0777151f13c0edd09e0fc4f9a125f 967eb523e037456a5af3f27367ac441124c3536f QuentC13 <quentin83640@orange.fr> 1735989833 +0100	checkout: moving from main to qc_textconfigAmap
+967eb523e037456a5af3f27367ac441124c3536f a89932bdaac0777151f13c0edd09e0fc4f9a125f QuentC13 <quentin83640@orange.fr> 1735989848 +0100	checkout: moving from qc_textconfigAmap to main
+a89932bdaac0777151f13c0edd09e0fc4f9a125f 967eb523e037456a5af3f27367ac441124c3536f QuentC13 <quentin83640@orange.fr> 1735989858 +0100	merge qc_textconfigAmap: Fast-forward
+967eb523e037456a5af3f27367ac441124c3536f ea475448e6f56cb1047db3a4ef235739a9de9aec QuentC13 <quentin83640@orange.fr> 1735992847 +0100	pull: Fast-forward
+ea475448e6f56cb1047db3a4ef235739a9de9aec ea475448e6f56cb1047db3a4ef235739a9de9aec QuentC13 <quentin83640@orange.fr> 1735993319 +0100	checkout: moving from main to qc_amapHome
+ea475448e6f56cb1047db3a4ef235739a9de9aec a61c854dea7cd171d032ae9011a3398c95d507c2 QuentC13 <quentin83640@orange.fr> 1736007056 +0100	commit: Css HomePage AMAP with config design and contents via Saas User account
+a61c854dea7cd171d032ae9011a3398c95d507c2 ea475448e6f56cb1047db3a4ef235739a9de9aec QuentC13 <quentin83640@orange.fr> 1736007069 +0100	checkout: moving from qc_amapHome to main
+ea475448e6f56cb1047db3a4ef235739a9de9aec a61c854dea7cd171d032ae9011a3398c95d507c2 QuentC13 <quentin83640@orange.fr> 1736007135 +0100	checkout: moving from main to qc_amapHome
+a61c854dea7cd171d032ae9011a3398c95d507c2 9faae727621a0dbaa434efdfa0910b208e65462f QuentC13 <quentin83640@orange.fr> 1736010124 +0100	commit: Footer responsive in main page ampa, test ok
+9faae727621a0dbaa434efdfa0910b208e65462f ea475448e6f56cb1047db3a4ef235739a9de9aec QuentC13 <quentin83640@orange.fr> 1736010144 +0100	checkout: moving from qc_amapHome to main
+ea475448e6f56cb1047db3a4ef235739a9de9aec 9faae727621a0dbaa434efdfa0910b208e65462f QuentC13 <quentin83640@orange.fr> 1736010164 +0100	merge qc_amapHome: Fast-forward
+9faae727621a0dbaa434efdfa0910b208e65462f 9faae727621a0dbaa434efdfa0910b208e65462f QuentC13 <quentin83640@orange.fr> 1736013583 +0100	checkout: moving from main to qc_amapHome
+9faae727621a0dbaa434efdfa0910b208e65462f 9faae727621a0dbaa434efdfa0910b208e65462f QuentC13 <quentin83640@orange.fr> 1736013600 +0100	checkout: moving from qc_amapHome to main
+9faae727621a0dbaa434efdfa0910b208e65462f a28071aaaf1c0c19297844cc030120460efc6a5c QuentC13 <quentin83640@orange.fr> 1736152268 +0100	pull: Fast-forward
+a28071aaaf1c0c19297844cc030120460efc6a5c a28071aaaf1c0c19297844cc030120460efc6a5c QuentC13 <quentin83640@orange.fr> 1736170530 +0100	checkout: moving from main to qc_imageAmap
+a28071aaaf1c0c19297844cc030120460efc6a5c 22d5a91e4ebf0f272276ea8602f03abbc59f16d4 QuentC13 <quentin83640@orange.fr> 1736170639 +0100	commit: image box Amap
+22d5a91e4ebf0f272276ea8602f03abbc59f16d4 36b87af3d2a30f832e55a2513a52d77b8e3c0004 QuentC13 <quentin83640@orange.fr> 1736172983 +0100	commit: image activities amap
+36b87af3d2a30f832e55a2513a52d77b8e3c0004 af0be213482fd82c293aa10001a45c851b9a4139 QuentC13 <quentin83640@orange.fr> 1736174208 +0100	commit: images product amap
+af0be213482fd82c293aa10001a45c851b9a4139 a28071aaaf1c0c19297844cc030120460efc6a5c QuentC13 <quentin83640@orange.fr> 1736174229 +0100	checkout: moving from qc_imageAmap to main
+a28071aaaf1c0c19297844cc030120460efc6a5c af0be213482fd82c293aa10001a45c851b9a4139 QuentC13 <quentin83640@orange.fr> 1736174259 +0100	checkout: moving from main to qc_imageAmap
+af0be213482fd82c293aa10001a45c851b9a4139 a28071aaaf1c0c19297844cc030120460efc6a5c QuentC13 <quentin83640@orange.fr> 1736174270 +0100	checkout: moving from qc_imageAmap to main
+a28071aaaf1c0c19297844cc030120460efc6a5c af0be213482fd82c293aa10001a45c851b9a4139 QuentC13 <quentin83640@orange.fr> 1736174279 +0100	checkout: moving from main to qc_imageAmap
+af0be213482fd82c293aa10001a45c851b9a4139 a28071aaaf1c0c19297844cc030120460efc6a5c QuentC13 <quentin83640@orange.fr> 1736174289 +0100	checkout: moving from qc_imageAmap to main
+a28071aaaf1c0c19297844cc030120460efc6a5c af0be213482fd82c293aa10001a45c851b9a4139 QuentC13 <quentin83640@orange.fr> 1736174296 +0100	merge qc_imageAmap: Fast-forward
+af0be213482fd82c293aa10001a45c851b9a4139 af0be213482fd82c293aa10001a45c851b9a4139 QuentC13 <quentin83640@orange.fr> 1736175105 +0100	checkout: moving from main to qc_amapspaceLink
+af0be213482fd82c293aa10001a45c851b9a4139 af0be213482fd82c293aa10001a45c851b9a4139 QuentC13 <quentin83640@orange.fr> 1736176794 +0100	checkout: moving from qc_amapspaceLink to main
+af0be213482fd82c293aa10001a45c851b9a4139 af0be213482fd82c293aa10001a45c851b9a4139 QuentC13 <quentin83640@orange.fr> 1736177246 +0100	checkout: moving from main to qc_amapspaceLink
+af0be213482fd82c293aa10001a45c851b9a4139 3e5dd8abb6ee00c56e8ec06d6c3c08dbff462997 QuentC13 <quentin83640@orange.fr> 1736181822 +0100	commit: link amapspace with activities WIP
+3e5dd8abb6ee00c56e8ec06d6c3c08dbff462997 af0be213482fd82c293aa10001a45c851b9a4139 QuentC13 <quentin83640@orange.fr> 1736181849 +0100	checkout: moving from qc_amapspaceLink to main
+af0be213482fd82c293aa10001a45c851b9a4139 61eee644f1b2258e7bbbaafc13c5f5c736ca17a8 QuentC13 <quentin83640@orange.fr> 1736181857 +0100	pull: Fast-forward
+61eee644f1b2258e7bbbaafc13c5f5c736ca17a8 3e5dd8abb6ee00c56e8ec06d6c3c08dbff462997 QuentC13 <quentin83640@orange.fr> 1736182085 +0100	checkout: moving from main to qc_amapspaceLink
+3e5dd8abb6ee00c56e8ec06d6c3c08dbff462997 0300099c91ea45e54d19de3838178397dba3f341 QuentC13 <quentin83640@orange.fr> 1736182091 +0100	merge main: Merge made by the 'ort' strategy.
+0300099c91ea45e54d19de3838178397dba3f341 61eee644f1b2258e7bbbaafc13c5f5c736ca17a8 QuentC13 <quentin83640@orange.fr> 1736238646 +0100	checkout: moving from qc_amapspaceLink to main
+61eee644f1b2258e7bbbaafc13c5f5c736ca17a8 215b3394d85a39c33a4a503af6d9094cea6b8026 QuentC13 <quentin83640@orange.fr> 1736238652 +0100	pull: Fast-forward
+215b3394d85a39c33a4a503af6d9094cea6b8026 0300099c91ea45e54d19de3838178397dba3f341 QuentC13 <quentin83640@orange.fr> 1736238700 +0100	checkout: moving from main to qc_amapspaceLink
+0300099c91ea45e54d19de3838178397dba3f341 afc535c7594b95a478bdd2c0e7c8c2750f457a88 QuentC13 <quentin83640@orange.fr> 1736238704 +0100	merge main: Merge made by the 'ort' strategy.
+afc535c7594b95a478bdd2c0e7c8c2750f457a88 afc535c7594b95a478bdd2c0e7c8c2750f457a88 QuentC13 <quentin83640@orange.fr> 1736241280 +0100	reset: moving to HEAD
+afc535c7594b95a478bdd2c0e7c8c2750f457a88 215b3394d85a39c33a4a503af6d9094cea6b8026 QuentC13 <quentin83640@orange.fr> 1736241296 +0100	checkout: moving from qc_amapspaceLink to main
+215b3394d85a39c33a4a503af6d9094cea6b8026 d61ec2ae3b2fe3786456918ba88dfb02ebbaa9e4 QuentC13 <quentin83640@orange.fr> 1736241302 +0100	pull: Fast-forward
+d61ec2ae3b2fe3786456918ba88dfb02ebbaa9e4 afc535c7594b95a478bdd2c0e7c8c2750f457a88 QuentC13 <quentin83640@orange.fr> 1736242245 +0100	checkout: moving from main to qc_amapspaceLink
+afc535c7594b95a478bdd2c0e7c8c2750f457a88 7f58147bde7cfc05071538489cfb094810c04e51 QuentC13 <quentin83640@orange.fr> 1736242249 +0100	merge main: Merge made by the 'ort' strategy.
+7f58147bde7cfc05071538489cfb094810c04e51 a09fd2acf5482bcdffb9f50786876aed66d0bf4a QuentC13 <quentin83640@orange.fr> 1736254096 +0100	commit: link products, boxes, activity with amapspace ok
+a09fd2acf5482bcdffb9f50786876aed66d0bf4a d61ec2ae3b2fe3786456918ba88dfb02ebbaa9e4 QuentC13 <quentin83640@orange.fr> 1736254111 +0100	checkout: moving from qc_amapspaceLink to main
+d61ec2ae3b2fe3786456918ba88dfb02ebbaa9e4 d0d92c3709cf905868b3df2ff85aa0adf0e0d7c2 QuentC13 <quentin83640@orange.fr> 1736254115 +0100	pull: Fast-forward
+d0d92c3709cf905868b3df2ff85aa0adf0e0d7c2 a09fd2acf5482bcdffb9f50786876aed66d0bf4a QuentC13 <quentin83640@orange.fr> 1736254129 +0100	checkout: moving from main to qc_amapspaceLink
+a09fd2acf5482bcdffb9f50786876aed66d0bf4a 3310053c1d794cb0766669b6c248d5b9bc4823f7 QuentC13 <quentin83640@orange.fr> 1736254336 +0100	commit (merge): conflit fixed
+3310053c1d794cb0766669b6c248d5b9bc4823f7 d0d92c3709cf905868b3df2ff85aa0adf0e0d7c2 QuentC13 <quentin83640@orange.fr> 1736254354 +0100	checkout: moving from qc_amapspaceLink to main
+d0d92c3709cf905868b3df2ff85aa0adf0e0d7c2 3310053c1d794cb0766669b6c248d5b9bc4823f7 QuentC13 <quentin83640@orange.fr> 1736254460 +0100	merge qc_amapspaceLink: Fast-forward
+3310053c1d794cb0766669b6c248d5b9bc4823f7 6c38fec8fb67065f111a06061f54700c806a6a39 QuentC13 <quentin83640@orange.fr> 1736256096 +0100	commit: bug fixed
+6c38fec8fb67065f111a06061f54700c806a6a39 6c38fec8fb67065f111a06061f54700c806a6a39 QuentC13 <quentin83640@orange.fr> 1736259947 +0100	checkout: moving from main to qc_producerlink
+6c38fec8fb67065f111a06061f54700c806a6a39 46c397509022c110ed65dd746607f6bf6cc7a863 QuentC13 <quentin83640@orange.fr> 1736271490 +0100	commit: link produceruseramap with product box and activities
+46c397509022c110ed65dd746607f6bf6cc7a863 280793b2c19ebb98fa3127db6b639d0f6a456366 QuentC13 <quentin83640@orange.fr> 1736272713 +0100	commit: edit product, activities, boxes fixed with image and amapspace id
+280793b2c19ebb98fa3127db6b639d0f6a456366 26a92662081d11126eec262bbbff18e7b435b93e QuentC13 <quentin83640@orange.fr> 1736274082 +0100	commit: Maj
+26a92662081d11126eec262bbbff18e7b435b93e 6c38fec8fb67065f111a06061f54700c806a6a39 QuentC13 <quentin83640@orange.fr> 1736274114 +0100	checkout: moving from qc_producerlink to main
+6c38fec8fb67065f111a06061f54700c806a6a39 e7c6e9d55e1f752153014d34c279841a795f5585 QuentC13 <quentin83640@orange.fr> 1736274123 +0100	pull: Fast-forward
+e7c6e9d55e1f752153014d34c279841a795f5585 26a92662081d11126eec262bbbff18e7b435b93e QuentC13 <quentin83640@orange.fr> 1736274378 +0100	checkout: moving from main to qc_producerlink
+26a92662081d11126eec262bbbff18e7b435b93e 76b5af8158f2a774a68829508003f25f826db807 QuentC13 <quentin83640@orange.fr> 1736274385 +0100	merge main: Merge made by the 'ort' strategy.
+76b5af8158f2a774a68829508003f25f826db807 e7c6e9d55e1f752153014d34c279841a795f5585 QuentC13 <quentin83640@orange.fr> 1736274411 +0100	checkout: moving from qc_producerlink to main
+e7c6e9d55e1f752153014d34c279841a795f5585 76b5af8158f2a774a68829508003f25f826db807 QuentC13 <quentin83640@orange.fr> 1736274420 +0100	merge qc_producerlink: Fast-forward
+76b5af8158f2a774a68829508003f25f826db807 610f908e3f96aaa61ae2887c47351bd34b092ace QuentC13 <quentin83640@orange.fr> 1736275370 +0100	commit: bug fixed
+610f908e3f96aaa61ae2887c47351bd34b092ace 76b5af8158f2a774a68829508003f25f826db807 QuentC13 <quentin83640@orange.fr> 1736275390 +0100	checkout: moving from main to qc_producerlink
+76b5af8158f2a774a68829508003f25f826db807 610f908e3f96aaa61ae2887c47351bd34b092ace QuentC13 <quentin83640@orange.fr> 1736275394 +0100	merge main: Fast-forward
+610f908e3f96aaa61ae2887c47351bd34b092ace 1bd702119578d1da7f91130771a6fc477d3de9a0 QuentC13 <quentin83640@orange.fr> 1736276768 +0100	commit: edit add/edit method for product, activity, box for link with producer
+1bd702119578d1da7f91130771a6fc477d3de9a0 610f908e3f96aaa61ae2887c47351bd34b092ace QuentC13 <quentin83640@orange.fr> 1736276780 +0100	checkout: moving from qc_producerlink to main
+610f908e3f96aaa61ae2887c47351bd34b092ace 1bd702119578d1da7f91130771a6fc477d3de9a0 QuentC13 <quentin83640@orange.fr> 1736276802 +0100	checkout: moving from main to qc_producerlink
+1bd702119578d1da7f91130771a6fc477d3de9a0 610f908e3f96aaa61ae2887c47351bd34b092ace QuentC13 <quentin83640@orange.fr> 1736277007 +0100	checkout: moving from qc_producerlink to main
+610f908e3f96aaa61ae2887c47351bd34b092ace 1bd702119578d1da7f91130771a6fc477d3de9a0 QuentC13 <quentin83640@orange.fr> 1736277018 +0100	merge qc_producerlink: Fast-forward
+1bd702119578d1da7f91130771a6fc477d3de9a0 1bd702119578d1da7f91130771a6fc477d3de9a0 QuentC13 <quentin83640@orange.fr> 1736279466 +0100	checkout: moving from main to qc_producerlink
+1bd702119578d1da7f91130771a6fc477d3de9a0 1bd702119578d1da7f91130771a6fc477d3de9a0 QuentC13 <quentin83640@orange.fr> 1736279878 +0100	checkout: moving from qc_producerlink to main
+1bd702119578d1da7f91130771a6fc477d3de9a0 cd885be59dedabe2f960d4eab170ac6a8f4e86b0 QuentC13 <quentin83640@orange.fr> 1736279887 +0100	pull: Fast-forward
+cd885be59dedabe2f960d4eab170ac6a8f4e86b0 1bd702119578d1da7f91130771a6fc477d3de9a0 QuentC13 <quentin83640@orange.fr> 1736279897 +0100	checkout: moving from main to qc_producerlink
+1bd702119578d1da7f91130771a6fc477d3de9a0 cd885be59dedabe2f960d4eab170ac6a8f4e86b0 QuentC13 <quentin83640@orange.fr> 1736279902 +0100	merge main: Fast-forward
+cd885be59dedabe2f960d4eab170ac6a8f4e86b0 6816e4b0774873e2a63e8953b6cb5be9e9f2cb64 QuentC13 <quentin83640@orange.fr> 1736283319 +0100	commit: Edit Header Amap for Producer
+6816e4b0774873e2a63e8953b6cb5be9e9f2cb64 cd885be59dedabe2f960d4eab170ac6a8f4e86b0 QuentC13 <quentin83640@orange.fr> 1736283329 +0100	checkout: moving from qc_producerlink to main
+cd885be59dedabe2f960d4eab170ac6a8f4e86b0 cd885be59dedabe2f960d4eab170ac6a8f4e86b0 QuentC13 <quentin83640@orange.fr> 1736283595 +0100	checkout: moving from main to qc_linkUserOrder
+cd885be59dedabe2f960d4eab170ac6a8f4e86b0 1ccc523f55d4338718f6b4ed9baad65c765b748b QuentC13 <quentin83640@orange.fr> 1736288070 +0100	commit: link User and Order ok, with OrderHstoric
+1ccc523f55d4338718f6b4ed9baad65c765b748b 2331eecd5b9ed3100ea6e6b4c20a7f5f668cae24 QuentC13 <quentin83640@orange.fr> 1736293122 +0100	commit: orderdetails in orderhistoric
+2331eecd5b9ed3100ea6e6b4c20a7f5f668cae24 cd885be59dedabe2f960d4eab170ac6a8f4e86b0 QuentC13 <quentin83640@orange.fr> 1736293142 +0100	checkout: moving from qc_linkUserOrder to main
+cd885be59dedabe2f960d4eab170ac6a8f4e86b0 2331eecd5b9ed3100ea6e6b4c20a7f5f668cae24 QuentC13 <quentin83640@orange.fr> 1736293158 +0100	merge qc_linkUserOrder: Fast-forward
+2331eecd5b9ed3100ea6e6b4c20a7f5f668cae24 2331eecd5b9ed3100ea6e6b4c20a7f5f668cae24 QuentC13 <quentin83640@orange.fr> 1736293179 +0100	checkout: moving from main to qc_linkUserOrder
+2331eecd5b9ed3100ea6e6b4c20a7f5f668cae24 2331eecd5b9ed3100ea6e6b4c20a7f5f668cae24 QuentC13 <quentin83640@orange.fr> 1736294586 +0100	checkout: moving from qc_linkUserOrder to main
+2331eecd5b9ed3100ea6e6b4c20a7f5f668cae24 15fca40710b3622b47f162be687055b83eb47db2 QuentC13 <quentin83640@orange.fr> 1736294595 +0100	pull: Fast-forward
+15fca40710b3622b47f162be687055b83eb47db2 2331eecd5b9ed3100ea6e6b4c20a7f5f668cae24 QuentC13 <quentin83640@orange.fr> 1736294611 +0100	checkout: moving from main to qc_linkUserOrder
+2331eecd5b9ed3100ea6e6b4c20a7f5f668cae24 15fca40710b3622b47f162be687055b83eb47db2 QuentC13 <quentin83640@orange.fr> 1736324779 +0100	checkout: moving from qc_linkUserOrder to main
+15fca40710b3622b47f162be687055b83eb47db2 2331eecd5b9ed3100ea6e6b4c20a7f5f668cae24 QuentC13 <quentin83640@orange.fr> 1736324800 +0100	checkout: moving from main to qc_linkUserOrder
+2331eecd5b9ed3100ea6e6b4c20a7f5f668cae24 f5dbeae2996d434f49d88517d403636402c59ebe QuentC13 <quentin83640@orange.fr> 1736328671 +0100	checkout: moving from qc_linkUserOrder to DJ_dernierJour
+f5dbeae2996d434f49d88517d403636402c59ebe 478d3c34d99d9cccc0b9507f23e1b24f36bb032a QuentC13 <quentin83640@orange.fr> 1736328680 +0100	pull: Fast-forward
+478d3c34d99d9cccc0b9507f23e1b24f36bb032a bb233d539ae0c4cf8158bba0264528759b8246c6 QuentC13 <quentin83640@orange.fr> 1736341588 +0100	commit: link by userType for dashboard
+bb233d539ae0c4cf8158bba0264528759b8246c6 4fd5663c44fcbedbdda5fbd90f19906840b04117 QuentC13 <quentin83640@orange.fr> 1736344807 +0100	commit: edit dashborad jsp
+4fd5663c44fcbedbdda5fbd90f19906840b04117 15fca40710b3622b47f162be687055b83eb47db2 QuentC13 <quentin83640@orange.fr> 1736344820 +0100	checkout: moving from DJ_dernierJour to main
+15fca40710b3622b47f162be687055b83eb47db2 c16c379fe0e5fb2e2cfdae88ed37aaebadee8dbf QuentC13 <quentin83640@orange.fr> 1736344828 +0100	pull: Fast-forward
+c16c379fe0e5fb2e2cfdae88ed37aaebadee8dbf 4fd5663c44fcbedbdda5fbd90f19906840b04117 QuentC13 <quentin83640@orange.fr> 1736344845 +0100	checkout: moving from main to DJ_dernierJour
+4fd5663c44fcbedbdda5fbd90f19906840b04117 c6efcc628159ce8c2bc5b8470f3b7ced25ff6274 QuentC13 <quentin83640@orange.fr> 1736344849 +0100	merge main: Merge made by the 'ort' strategy.
+c6efcc628159ce8c2bc5b8470f3b7ced25ff6274 c16c379fe0e5fb2e2cfdae88ed37aaebadee8dbf QuentC13 <quentin83640@orange.fr> 1736346178 +0100	checkout: moving from DJ_dernierJour to main
+c16c379fe0e5fb2e2cfdae88ed37aaebadee8dbf c6efcc628159ce8c2bc5b8470f3b7ced25ff6274 QuentC13 <quentin83640@orange.fr> 1736346241 +0100	merge DJ_dernierJour: Fast-forward
+c6efcc628159ce8c2bc5b8470f3b7ced25ff6274 c6efcc628159ce8c2bc5b8470f3b7ced25ff6274 QuentC13 <quentin83640@orange.fr> 1736350085 +0100	checkout: moving from main to QcDj_cssAmap
+c6efcc628159ce8c2bc5b8470f3b7ced25ff6274 26afd39a45f543e3658a9fbcf017a15a627069a6 QuentC13 <quentin83640@orange.fr> 1736354241 +0100	commit: reload css Amap
+26afd39a45f543e3658a9fbcf017a15a627069a6 c6efcc628159ce8c2bc5b8470f3b7ced25ff6274 QuentC13 <quentin83640@orange.fr> 1736354265 +0100	checkout: moving from QcDj_cssAmap to main
+c6efcc628159ce8c2bc5b8470f3b7ced25ff6274 dea2d8911bda526c6a7db1f009c53d085a7feeb9 QuentC13 <quentin83640@orange.fr> 1736354272 +0100	pull: Fast-forward
+dea2d8911bda526c6a7db1f009c53d085a7feeb9 26afd39a45f543e3658a9fbcf017a15a627069a6 QuentC13 <quentin83640@orange.fr> 1736354281 +0100	checkout: moving from main to QcDj_cssAmap
+26afd39a45f543e3658a9fbcf017a15a627069a6 e34ce5d4b1d39f9ec3a81a7ab338a1393d8f2fc3 QuentC13 <quentin83640@orange.fr> 1736354285 +0100	merge main: Merge made by the 'ort' strategy.
+e34ce5d4b1d39f9ec3a81a7ab338a1393d8f2fc3 dea2d8911bda526c6a7db1f009c53d085a7feeb9 QuentC13 <quentin83640@orange.fr> 1736354315 +0100	checkout: moving from QcDj_cssAmap to main
+dea2d8911bda526c6a7db1f009c53d085a7feeb9 e34ce5d4b1d39f9ec3a81a7ab338a1393d8f2fc3 QuentC13 <quentin83640@orange.fr> 1736354324 +0100	merge QcDj_cssAmap: Fast-forward
+e34ce5d4b1d39f9ec3a81a7ab338a1393d8f2fc3 e34ce5d4b1d39f9ec3a81a7ab338a1393d8f2fc3 QuentC13 <quentin83640@orange.fr> 1736354343 +0100	checkout: moving from main to QcDj_cssAmap
+e34ce5d4b1d39f9ec3a81a7ab338a1393d8f2fc3 6a0396fad898d07a67541cac004c9e173a5caa1e QuentC13 <quentin83640@orange.fr> 1736361677 +0100	commit: css sign up, login amap
+6a0396fad898d07a67541cac004c9e173a5caa1e e34ce5d4b1d39f9ec3a81a7ab338a1393d8f2fc3 QuentC13 <quentin83640@orange.fr> 1736361762 +0100	checkout: moving from QcDj_cssAmap to main
+e34ce5d4b1d39f9ec3a81a7ab338a1393d8f2fc3 6a0396fad898d07a67541cac004c9e173a5caa1e QuentC13 <quentin83640@orange.fr> 1736361784 +0100	checkout: moving from main to QcDj_cssAmap
+6a0396fad898d07a67541cac004c9e173a5caa1e e34ce5d4b1d39f9ec3a81a7ab338a1393d8f2fc3 QuentC13 <quentin83640@orange.fr> 1736361792 +0100	checkout: moving from QcDj_cssAmap to main
+e34ce5d4b1d39f9ec3a81a7ab338a1393d8f2fc3 6a0396fad898d07a67541cac004c9e173a5caa1e QuentC13 <quentin83640@orange.fr> 1736361799 +0100	merge QcDj_cssAmap: Fast-forward
+6a0396fad898d07a67541cac004c9e173a5caa1e 6a0396fad898d07a67541cac004c9e173a5caa1e QuentC13 <quentin83640@orange.fr> 1736361815 +0100	checkout: moving from main to QcDj_cssAmap
+6a0396fad898d07a67541cac004c9e173a5caa1e 6a0396fad898d07a67541cac004c9e173a5caa1e QuentC13 <quentin83640@orange.fr> 1736371678 +0100	checkout: moving from QcDj_cssAmap to main
+6a0396fad898d07a67541cac004c9e173a5caa1e d3bd520c55516354beba79c6f233acebbdb64984 QuentC13 <quentin83640@orange.fr> 1736371694 +0100	pull: Fast-forward
+d3bd520c55516354beba79c6f233acebbdb64984 6a0396fad898d07a67541cac004c9e173a5caa1e QuentC13 <quentin83640@orange.fr> 1736371777 +0100	checkout: moving from main to QcDj_cssAmap
+6a0396fad898d07a67541cac004c9e173a5caa1e d3bd520c55516354beba79c6f233acebbdb64984 QuentC13 <quentin83640@orange.fr> 1736371781 +0100	merge main: Fast-forward
+d3bd520c55516354beba79c6f233acebbdb64984 d3bd520c55516354beba79c6f233acebbdb64984 QuentC13 <quentin83640@orange.fr> 1736371794 +0100	checkout: moving from QcDj_cssAmap to main
+d3bd520c55516354beba79c6f233acebbdb64984 d3bd520c55516354beba79c6f233acebbdb64984 QuentC13 <quentin83640@orange.fr> 1736371888 +0100	checkout: moving from main to QcDj_cssAmap
+d3bd520c55516354beba79c6f233acebbdb64984 387faa9ecedf24f9599c6dc80f9c4b8e06aab34f QuentC13 <quentin83640@orange.fr> 1736371981 +0100	commit: redit css amap
+387faa9ecedf24f9599c6dc80f9c4b8e06aab34f d3bd520c55516354beba79c6f233acebbdb64984 QuentC13 <quentin83640@orange.fr> 1736372001 +0100	checkout: moving from QcDj_cssAmap to main
+d3bd520c55516354beba79c6f233acebbdb64984 387faa9ecedf24f9599c6dc80f9c4b8e06aab34f QuentC13 <quentin83640@orange.fr> 1736372013 +0100	merge QcDj_cssAmap: Fast-forward
+387faa9ecedf24f9599c6dc80f9c4b8e06aab34f 387faa9ecedf24f9599c6dc80f9c4b8e06aab34f QuentC13 <quentin83640@orange.fr> 1736372054 +0100	checkout: moving from main to QcDj_cssAmap
+387faa9ecedf24f9599c6dc80f9c4b8e06aab34f acd5bf04b174e6bcb10c3f7e13a74505486ce860 QuentC13 <quentin83640@orange.fr> 1736377795 +0100	commit: repare CRUD admin and Porducer activity, box, products
+acd5bf04b174e6bcb10c3f7e13a74505486ce860 387faa9ecedf24f9599c6dc80f9c4b8e06aab34f QuentC13 <quentin83640@orange.fr> 1736377807 +0100	checkout: moving from QcDj_cssAmap to main
+387faa9ecedf24f9599c6dc80f9c4b8e06aab34f acd5bf04b174e6bcb10c3f7e13a74505486ce860 QuentC13 <quentin83640@orange.fr> 1736377824 +0100	checkout: moving from main to QcDj_cssAmap
+acd5bf04b174e6bcb10c3f7e13a74505486ce860 387faa9ecedf24f9599c6dc80f9c4b8e06aab34f QuentC13 <quentin83640@orange.fr> 1736377832 +0100	checkout: moving from QcDj_cssAmap to main
+387faa9ecedf24f9599c6dc80f9c4b8e06aab34f acd5bf04b174e6bcb10c3f7e13a74505486ce860 QuentC13 <quentin83640@orange.fr> 1736377840 +0100	merge QcDj_cssAmap: Fast-forward
+acd5bf04b174e6bcb10c3f7e13a74505486ce860 acd5bf04b174e6bcb10c3f7e13a74505486ce860 QuentC13 <quentin83640@orange.fr> 1736377860 +0100	checkout: moving from main to QcDj_cssAmap
+acd5bf04b174e6bcb10c3f7e13a74505486ce860 2d6f33883f9571702159f9664a6fe407710670ae QuentC13 <quentin83640@orange.fr> 1736381396 +0100	commit: redit css dashboard
+2d6f33883f9571702159f9664a6fe407710670ae acd5bf04b174e6bcb10c3f7e13a74505486ce860 QuentC13 <quentin83640@orange.fr> 1736381410 +0100	checkout: moving from QcDj_cssAmap to main
+acd5bf04b174e6bcb10c3f7e13a74505486ce860 2d6f33883f9571702159f9664a6fe407710670ae QuentC13 <quentin83640@orange.fr> 1736381427 +0100	merge QcDj_cssAmap: Fast-forward
+2d6f33883f9571702159f9664a6fe407710670ae 2d6f33883f9571702159f9664a6fe407710670ae QuentC13 <quentin83640@orange.fr> 1736381446 +0100	checkout: moving from main to QcDj_cssAmap
+2d6f33883f9571702159f9664a6fe407710670ae 670d6a6c2b5f97ad66b8717df5e2564cd3a51ff8 QuentC13 <quentin83640@orange.fr> 1736384148 +0100	commit: redit css amap
+670d6a6c2b5f97ad66b8717df5e2564cd3a51ff8 7486110cfab91e3615f2595e2b3eb6d7ea0d4564 QuentC13 <quentin83640@orange.fr> 1736384657 +0100	commit: final css amap
+7486110cfab91e3615f2595e2b3eb6d7ea0d4564 2d6f33883f9571702159f9664a6fe407710670ae QuentC13 <quentin83640@orange.fr> 1736384671 +0100	checkout: moving from QcDj_cssAmap to main
+2d6f33883f9571702159f9664a6fe407710670ae 7486110cfab91e3615f2595e2b3eb6d7ea0d4564 QuentC13 <quentin83640@orange.fr> 1736384685 +0100	merge QcDj_cssAmap: Fast-forward
+7486110cfab91e3615f2595e2b3eb6d7ea0d4564 491a38f8ed9a76ffa8daba17496996d0c96357ec QuentC13 <quentin83640@orange.fr> 1736417770 +0100	pull: Fast-forward
+491a38f8ed9a76ffa8daba17496996d0c96357ec 39aed97bca17afd482023c83e94ac2bfc4060474 QuentC13 <quentin83640@orange.fr> 1736423269 +0100	pull: Fast-forward
+39aed97bca17afd482023c83e94ac2bfc4060474 07d7d6c6bfdccf6eeb1d5cb51333a9778a785c5a QuentC13 <quentin83640@orange.fr> 1736430103 +0100	pull: Fast-forward
+07d7d6c6bfdccf6eeb1d5cb51333a9778a785c5a fa7d0aa5a754c519507ed9fed6a9f3ee009c5709 QuentC13 <quentin83640@orange.fr> 1736434205 +0100	pull: Fast-forward
+fa7d0aa5a754c519507ed9fed6a9f3ee009c5709 ef091260d08cd102bce4f68c4152175244b455c4 QuentC13 <quentin83640@orange.fr> 1736457617 +0100	pull: Fast-forward
+ef091260d08cd102bce4f68c4152175244b455c4 0000000000000000000000000000000000000000 Caylus Quentin <quent@LAPTOP-84SRP69C.(none)> 1741017832 +0100	Branch: renamed refs/heads/main to refs/heads/master
+0000000000000000000000000000000000000000 ef091260d08cd102bce4f68c4152175244b455c4 Caylus Quentin <quent@LAPTOP-84SRP69C.(none)> 1741017832 +0100	Branch: renamed refs/heads/main to refs/heads/master

@@ -1,0 +1,239 @@
+@charset "UTF-8";
+
+.ctas-home {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 7%;
+	margin: 30px 0;
+}
+
+.btn-home {
+	width: 250px;
+}
+
+.btn-secondary-g {
+	border-radius: 30px;
+	padding: 15px 50px;
+	background-color: #a8b5a2;
+	color: black;
+	font-weight: 600;
+	border: none;
+}
+
+.presentation-img {
+     position: relative;
+}
+
+.presentation-img img {
+     display: block;
+     margin: 0 auto;
+     height: 30vw;
+}
+
+.text1 {
+     position: absolute;
+     top: 43%;
+     left: 25%;
+     transform: translate(-50%, -50%);
+}
+
+.text2 {
+     position: absolute;
+     top: 13%;
+     left: 75%;
+     transform: translate(-50%, -50%);
+}
+
+.text3 {
+     position: absolute;
+     top: 62%;
+     left: 55%;
+     transform: translate(-50%, -50%);
+}
+
+.btn-secondary-g:hover {
+	cursor: default;
+}
+
+.btn-secondary-o {
+	border-radius: 30px;
+	padding: 15px 50px;
+	background-color: #d9a89c;
+	color: black;
+	font-weight: 600;
+	border: none;
+}
+
+.btn-secondary-b {
+	border-radius: 30px;
+	padding: 15px 50px;
+	background-color: #b3d9e2;
+	color: black;
+	font-weight: 600;
+	border: none;
+}
+
+.features {
+	display: flex;
+	gap: 5%;
+}
+
+.features img {
+	width: 100%;
+	height: 200px;
+	object-fit: cover;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+}
+
+.feature-card {
+	width: 33%;
+	border-radius: 30px;
+}
+
+.feature-card-content {
+	padding: 20px 30px;
+}
+
+.feature-name {
+	font-size: 18px;
+	letter-spacing: 1px;
+	font-weight: 600;
+}
+
+.steps {
+	display: flex;
+	justify-content: space-between;
+	gap: 20px;
+}
+
+.step {
+	width: 250px;
+	aspect-ratio: 1;
+	border-radius: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border-radius: 100%;
+}
+
+.number {
+	border-radius: 30px;
+	width: 50px;
+	padding: 10px;
+	font-size: 20px;
+	letter-spacing: 1px;
+	font-weight: 600;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20%;
+}
+
+/************************** Nos amaps *********************************/
+.amaps {
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.amaps img {
+	height: 150px;
+	object-fit: contain;
+}
+
+.amap-card-content {
+	padding: 20px 30px;
+}
+
+.amap {
+	width: 20%;
+}
+
+.amap a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.amap:hover {
+	box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2), 0 4px 6px rgba(0, 0, 0, 0.15);
+}
+
+/* ------------------------ Format tablette ---------------------------*/
+@media screen and (max-width: 992px) {
+	.presentation-container img {
+		height: 50vw;
+	}
+	.ctas-home {
+		flex-wrap: wrap;
+	}
+	.package-btn {
+		margin: 10px 0 20px 0;
+	}
+	.features {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.feature-card {
+		width: 100%;
+		margin-bottom: 50px;
+	}
+	.steps {
+		flex-wrap: wrap;
+		justify-content: space-around;
+	}
+	.step {
+		margin-bottom: 50px;
+	}
+	.amap {
+		width: 30%;
+	}
+	.presentation-img {
+	font-size: 14px;
+}
+	.text2 {
+     left: 55%;
+}
+	
+}
+
+/* ------------------------ Format mobile ---------------------------*/
+@media screen and (max-width: 768px) {
+	.steps {
+		flex-wrap: wrap;
+		justify-content: space-around;
+	}
+	.step {
+		margin-bottom: 30px;
+	}
+	.amap {
+		width: 100%;
+	}
+	h3 {
+		margin-top: 20px;
+	}
+		.presentation-img {
+	font-size: 12px;
+}
+
+.btn-secondary-o {
+	padding: 15px 20px;
+}
+
+.btn-secondary-g {
+	padding: 15px 20px;
+}
+
+.btn-secondary-b {
+	padding: 15px 20px;
+}
+	.text2 {
+     top: 10%;
+     left: 50%;
+}
+
+.text3 {
+     top: 80%;
+     left: 40%;
+}
+	
+}

@@ -1,0 +1,43 @@
+.contact-page {
+	display: flex;
+	justify-content: space-around;
+}
+
+.contact-form {
+	border-radius: 30px;
+	background-color: #f0f3f5;
+	padding: 35px 50px 10px 50px;
+	width: 50%;
+	margin-bottom: 50px;
+}
+
+.contact-form-input {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 20px;
+}
+
+.contact-btn {
+	padding: 10px 30px;
+}
+
+/* ------------------------ Format tablette ---------------------------*/
+@media screen and (max-width: 992px) {
+	.contact-page {
+		flex-direction: column;
+	}
+	h3 {
+		margin-top: 0;
+	}
+	.contact-form {
+		width: 100%;
+		margin-top: 20px;
+	}
+}
+
+/* ------------------------ Format mobile ---------------------------*/
+@media screen and (max-width:768px) {
+	.contact-form {
+		padding: 35px 30px 10px 30px;
+	}
+}

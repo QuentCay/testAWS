@@ -1,0 +1,107 @@
+.payment-container {
+	display: flex;
+	justify-content: center;
+	gap: 7vw;
+}
+
+.payment-container>div {
+	width: 42%;
+}
+
+.payment-form {
+	background-color: #f0f3f5;
+	border-radius: 30px;
+	padding: 25px 50px 35px 50px;
+	border: none;
+	margin-top: 50px;
+	height: 100%;
+}
+
+.payment-form input {
+	width: 100%;
+}
+
+.left {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 100%;
+}
+
+.recap {
+	border-radius: 30px;
+	padding: 25px 30px 0 40px;
+	border: 2px solid #a8b5a2;
+}
+
+.recap p {
+	margin-bottom: 2px;
+}
+
+.recap-part {
+	display: flex;
+	align-items: center;
+	gap: 2vw;
+	margin-bottom: 30px;
+	gap: 2vw;
+}
+
+.form-group {
+	margin-bottom: 1.3rem;
+}
+
+.flex {
+	display: flex;
+	justify-content: space-between;
+	gap: 2vw;
+}
+
+.dot-container {
+	width: 15px;
+}
+
+.dot {
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+}
+
+.payment-icons {
+	display: flex;
+}
+
+.payment-form-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 10px;
+}
+
+.payment-icons img {
+	width: 50px;
+	margin-bottom: 1rem;
+}
+
+/* ------------------------ Format tablette ---------------------------*/
+@media screen and (max-width: 992px) {
+	.payment-container {
+		display: block;
+	}
+	.payment-container>div {
+		width: 100%;
+	}
+}
+
+/* ------------------------ Format mobile ---------------------------*/
+@media screen and (max-width: 768px) {
+	.payment-form {
+		padding: 25px 30px 35px 30px;
+	}
+	.recap {
+		padding: 25px 30px 0 20px;
+	}
+	.payment-form-header img {
+	width: 35px;
+
+}
+}

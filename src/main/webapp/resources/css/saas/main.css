@@ -1,0 +1,263 @@
+@charset "UTF-8";
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+    	margin: 0 150px;
+    
+}
+
+footer {
+    width: 100%;
+    margin-top: auto;
+}
+
+body {
+	margin: 0;
+	box-sizing: border-box;
+	background-color: #fafafa;
+}
+
+h1 {
+	margin: 50px 0;
+}
+
+h2 {
+	margin: 40px 0;
+}
+
+h3 {
+	margin: 60px 0 25px 0;
+}
+
+ul {
+	padding-left: 15px;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	cursor: pointer;
+}
+
+section {
+	margin-bottom: 70px;
+}
+
+input {
+	border: 1px solid #cfd8dc;
+	border-radius: 30px;
+	height: 40px;
+	padding: 0 15px;
+}
+
+textarea {
+	border: 1px solid #cfd8dc;
+	border-radius: 15px;
+	padding: 10px 20px;
+}
+
+input:focus {
+	border: 1px solid #b3d9e2;
+	outline: none;
+}
+
+textarea:focus {
+	border: 1px solid #b3d9e2;
+	outline: none;
+}
+
+
+.form-control {
+	border-radius: 30px;
+}
+
+/********* Background colors **************/
+.bg-o {
+	background-color: #d9a89c;
+}
+
+.bg-b {
+	background-color: #b3d9e2;
+}
+
+.bg-g {
+	background-color: #a8b5a2;
+}
+
+.bg-grey {
+	background-color: #cfd8dc;
+}
+
+/********* Box shadows **************/
+.shadow {
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.shadow-o {
+	box-shadow: 0 8px 15px rgba(217, 168, 156, 0.4), 0 3px 10px
+		rgba(217, 168, 156, 0.25);
+}
+
+.shadow-b {
+	box-shadow: 0 8px 15px rgba(139, 183, 199, 0.4), 0 3px 10px
+		rgba(139, 183, 199, 0.25);
+}
+
+.shadow-g {
+	box-shadow: 0 8px 15px rgba(168, 181, 162, 0.4), 0 3px 10px
+		rgba(168, 181, 162, 0.25);
+}
+
+/********* Boutons **************/
+.btn {
+	border-radius: 30px;
+	padding: 10px;
+	background-color: white;
+}
+
+.btn:hover {
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+}
+
+.btn-secondary {
+	border-radius: 30px;
+	padding: 15px 50px;
+	background-color: #b3d9e2;
+	color: black;
+	font-weight: 600;
+	border: none;
+}
+
+.btn:hover {
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+}
+
+.package-btn {
+	margin: 30px 0 35px 0;
+}
+
+.btn-o {
+	border: 2px solid #d9a89c;
+}
+
+.btn-o:hover {
+	transition: background-color 0.3s ease;
+	background-color: #d9a89c;
+}
+
+.btn-b {
+	border: 2px solid #b3d9e2;
+}
+
+.btn-b:hover {
+	transition: background-color 0.3s ease;
+	background-color: #b3d9e2;
+}
+
+.btn-g {
+	border: 2px solid #a8b5a2;
+}
+
+.btn-g:hover {
+	transition: background-color 0.3s ease;
+	background-color: #a8b5a2;
+}
+
+
+/**************************** Footer ******************************/
+.footer-content {
+	padding: 15px 0;
+}
+
+footer {
+	width: 100%;
+	margin-top: auto;
+}
+
+footer p {
+	margin-bottom: 1px;
+	font-size: 14px;
+}
+
+.cr {
+	font-size: 12px;
+}
+
+/****************************** Header************************************/
+header {
+	box-shadow: 0 2px 4px rgba(217, 168, 156, 0.8), 0 1px 3px
+		rgba(217, 168, 156, 0.7);
+	display: flex;	
+}
+
+.nav-item {
+	margin: 0 20px;
+}
+
+.dropdown-divider {
+    border-top: 1px solid #ccc;
+    margin: 10px 0;
+}
+
+.navbar-brand {
+	padding-top: 10px;
+	margin: 0 40px 0 5px;
+}
+
+/* ------------------------ Format tablette ---------------------------*/
+@media screen and (max-width: 992px) {
+	main {
+		margin: 0 80px;
+	}
+	section {
+		margin-bottom: 50px;
+	}
+	h1 {
+		font-size: 30px;
+	}
+	h2 {
+		font-size: 26px;
+	}
+	h3 {
+		font-size: 22px;
+	}
+	.vertical-nav {
+	display: none;
+	}
+}
+
+/* ------------------------ Format mobile ---------------------------*/
+@media screen and (max-width: 768px) {
+	main {
+		margin: 0 40px;
+	}
+	section {
+		margin-bottom: 30px;
+	}
+	h1 {
+		font-size: 26px;
+	}
+	h2 {
+		font-size: 22px;
+	}
+	h3 {
+		font-size: 18px;
+	}
+	p, li, label, .btn {
+	font-size: 14px;
+	}
+}

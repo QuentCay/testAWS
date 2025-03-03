@@ -1,0 +1,39 @@
+# Répertoires de build Maven
+/target/
+
+# Fichiers Eclipse spécifiques
+.project
+.classpath
+.settings/
+
+# Fichiers générés par Maven
+dependency-reduced-pom.xml
+buildNumber.properties
+release.properties
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Fichiers système (Windows, macOS)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Configuration locale Maven
+.mvn/
+
+# Fichiers de compilation Java
+*.class
+
+# Artifacts compilés manuellement
+*.jar
+*.war
+*.ear
+src/main/resources/META-INF/persistence.xml
+/.metadata/

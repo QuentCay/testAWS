@@ -1,0 +1,50 @@
+table {
+	margin-top: 20px;
+	border-radius: 30px;	
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    font-size: 14px;
+}
+
+.table th, td {
+	text-align: center;
+}
+
+.table td {
+	vertical-align: middle;
+}
+
+.table thead th {
+	vertical-align: middle;
+	font-size: 14px;
+}
+
+.table td {
+    max-width: 300px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+.btn-link {
+	margin: 0 5px;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    padding: 20px;    
+}

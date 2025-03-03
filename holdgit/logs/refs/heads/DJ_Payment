@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 aab539dec615524ffb7b7402b779a72a157e5550 QuentC13 <quentin83640@orange.fr> 1734688668 +0100	branch: Created from refs/remotes/origin/DJ_Payment
+aab539dec615524ffb7b7402b779a72a157e5550 5e56cca6bdd2bef0fba6750f45f1141cb27459bc QuentC13 <quentin83640@orange.fr> 1734691530 +0100	commit: create relation OnteOne with AMAP/SaasUser
+5e56cca6bdd2bef0fba6750f45f1141cb27459bc b565d98593e0aa93467715f0032c5ba02f423510 QuentC13 <quentin83640@orange.fr> 1734700791 +0100	pull: Fast-forward
+b565d98593e0aa93467715f0032c5ba02f423510 985a6618afc7c517b21f0a373aef9bd42f0dccd1 QuentC13 <quentin83640@orange.fr> 1734708825 +0100	commit: Upload payment WIP
+985a6618afc7c517b21f0a373aef9bd42f0dccd1 fb82ffae2bce93b9323b271a0a43b9d3baa52b25 QuentC13 <quentin83640@orange.fr> 1734709073 +0100	commit (merge): Merge branch 'main' into DJ_Payment
+fb82ffae2bce93b9323b271a0a43b9d3baa52b25 f872bf7e3ccc01df8663d6ee0ca1c69c3eb2449d QuentC13 <quentin83640@orange.fr> 1734800276 +0100	commit: Update payment subcriptions with front WIP
+f872bf7e3ccc01df8663d6ee0ca1c69c3eb2449d 8089622381611d61075fa0e1312687cc0407d7a5 QuentC13 <quentin83640@orange.fr> 1734806716 +0100	commit: BackEnd SUbscription complete, need more Front for Payment form, waiting connexion systeme

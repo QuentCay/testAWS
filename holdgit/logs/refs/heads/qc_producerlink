@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 6c38fec8fb67065f111a06061f54700c806a6a39 QuentC13 <quentin83640@orange.fr> 1736259937 +0100	branch: Created from main
+6c38fec8fb67065f111a06061f54700c806a6a39 46c397509022c110ed65dd746607f6bf6cc7a863 QuentC13 <quentin83640@orange.fr> 1736271490 +0100	commit: link produceruseramap with product box and activities
+46c397509022c110ed65dd746607f6bf6cc7a863 280793b2c19ebb98fa3127db6b639d0f6a456366 QuentC13 <quentin83640@orange.fr> 1736272713 +0100	commit: edit product, activities, boxes fixed with image and amapspace id
+280793b2c19ebb98fa3127db6b639d0f6a456366 26a92662081d11126eec262bbbff18e7b435b93e QuentC13 <quentin83640@orange.fr> 1736274082 +0100	commit: Maj
+26a92662081d11126eec262bbbff18e7b435b93e 76b5af8158f2a774a68829508003f25f826db807 QuentC13 <quentin83640@orange.fr> 1736274385 +0100	merge main: Merge made by the 'ort' strategy.
+76b5af8158f2a774a68829508003f25f826db807 610f908e3f96aaa61ae2887c47351bd34b092ace QuentC13 <quentin83640@orange.fr> 1736275394 +0100	merge main: Fast-forward
+610f908e3f96aaa61ae2887c47351bd34b092ace 1bd702119578d1da7f91130771a6fc477d3de9a0 QuentC13 <quentin83640@orange.fr> 1736276768 +0100	commit: edit add/edit method for product, activity, box for link with producer
+1bd702119578d1da7f91130771a6fc477d3de9a0 cd885be59dedabe2f960d4eab170ac6a8f4e86b0 QuentC13 <quentin83640@orange.fr> 1736279902 +0100	merge main: Fast-forward
+cd885be59dedabe2f960d4eab170ac6a8f4e86b0 6816e4b0774873e2a63e8953b6cb5be9e9f2cb64 QuentC13 <quentin83640@orange.fr> 1736283319 +0100	commit: Edit Header Amap for Producer

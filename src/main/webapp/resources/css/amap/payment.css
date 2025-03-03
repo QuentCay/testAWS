@@ -1,0 +1,29 @@
+.payment-container {
+	padding: 30px;
+	border: 1px solid #ddd;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	background-color: #f7f7f7;
+}
+
+.payment-form input, .payment-form button {
+	margin-bottom: 15px;
+}
+
+.payment-form button {
+	background-color: #007bff;
+	color: white;
+}
+
+.payment-form button:hover {
+	background-color: #0056b3;
+}
+
+.payment-icons {
+	display: flex;
+}
+
+.payment-icons img {
+	width: 50px;
+	margin-bottom: 1rem;
+}
