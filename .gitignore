@@ -5,6 +5,9 @@
 .project
 .classpath
 .settings/
+.vscode
+holdgit/
+
 
 # Fichiers générés par Maven
 dependency-reduced-pom.xml
