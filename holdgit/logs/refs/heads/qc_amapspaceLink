@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 af0be213482fd82c293aa10001a45c851b9a4139 QuentC13 <quentin83640@orange.fr> 1736175092 +0100	branch: Created from main
-af0be213482fd82c293aa10001a45c851b9a4139 3e5dd8abb6ee00c56e8ec06d6c3c08dbff462997 QuentC13 <quentin83640@orange.fr> 1736181822 +0100	commit: link amapspace with activities WIP
-3e5dd8abb6ee00c56e8ec06d6c3c08dbff462997 0300099c91ea45e54d19de3838178397dba3f341 QuentC13 <quentin83640@orange.fr> 1736182091 +0100	merge main: Merge made by the 'ort' strategy.
-0300099c91ea45e54d19de3838178397dba3f341 afc535c7594b95a478bdd2c0e7c8c2750f457a88 QuentC13 <quentin83640@orange.fr> 1736238704 +0100	merge main: Merge made by the 'ort' strategy.
-afc535c7594b95a478bdd2c0e7c8c2750f457a88 7f58147bde7cfc05071538489cfb094810c04e51 QuentC13 <quentin83640@orange.fr> 1736242249 +0100	merge main: Merge made by the 'ort' strategy.
-7f58147bde7cfc05071538489cfb094810c04e51 a09fd2acf5482bcdffb9f50786876aed66d0bf4a QuentC13 <quentin83640@orange.fr> 1736254096 +0100	commit: link products, boxes, activity with amapspace ok
-a09fd2acf5482bcdffb9f50786876aed66d0bf4a 3310053c1d794cb0766669b6c248d5b9bc4823f7 QuentC13 <quentin83640@orange.fr> 1736254336 +0100	commit (merge): conflit fixed

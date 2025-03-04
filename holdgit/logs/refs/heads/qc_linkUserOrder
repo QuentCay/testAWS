@@ -1,3 +1,0 @@
-0000000000000000000000000000000000000000 cd885be59dedabe2f960d4eab170ac6a8f4e86b0 QuentC13 <quentin83640@orange.fr> 1736283587 +0100	branch: Created from main
-cd885be59dedabe2f960d4eab170ac6a8f4e86b0 1ccc523f55d4338718f6b4ed9baad65c765b748b QuentC13 <quentin83640@orange.fr> 1736288070 +0100	commit: link User and Order ok, with OrderHstoric
-1ccc523f55d4338718f6b4ed9baad65c765b748b 2331eecd5b9ed3100ea6e6b4c20a7f5f668cae24 QuentC13 <quentin83640@orange.fr> 1736293122 +0100	commit: orderdetails in orderhistoric
